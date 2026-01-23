@@ -1,0 +1,19 @@
+{
+  "id": "acode.plugin.pixel_icons",
+  "name": "Pixel Icons",
+  "main": "main.js",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "readme": "readme.md",
+  "minVersionCode": 289,
+  "url": "https://localhost/__cdvfile_files-external__/plugins/acode.plugin.pixel_icons/icons/",
+  "icon": "icon.png",
+  "files": [],
+  "keywords": ["icons"],
+  "contributors": [],
+  "author": {
+    "name": "The-Nice-One",
+    "email": "",
+    "github": "The-Nice-One"
+  }
+}

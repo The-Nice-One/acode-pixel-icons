@@ -1,0 +1,197 @@
+[
+  {
+    "name": "html",
+    "file_extensions": ["htm", "xhtml", "html_vm", "asp"]
+  },
+  {
+    "name": "css",
+    "file_extensions": ["css"]
+  },
+  {
+    "name": "javascript",
+    "file_extensions": ["esx", "mjs"]
+  },
+  {
+    "name": "settings",
+    "file_name": [
+      ".jshintignore",
+      ".buildignore",
+      ".mrconfig",
+      ".yardopts",
+      "manifest.mf",
+      ".clang-format",
+      ".clang-tidy"
+    ],
+    "file_extensions": [
+      "ini",
+      "dlc",
+      "dll",
+      "config",
+      "conf",
+      "properties",
+      "prop",
+      "settings",
+      "option",
+      "props",
+      "toml",
+      "prefs",
+      "sln.dotsettings",
+      "sln.dotsettings.user",
+      "cfg"
+    ]
+  },
+  {
+    "name": "zip",
+    "file_extensions": [
+      "zip",
+      "tar",
+      "gz",
+      "xz",
+      "lzma",
+      "lz4",
+      "br",
+      "bz2",
+      "bzip2",
+      "gzip",
+      "brotli",
+      "7z",
+      "rar",
+      "tz",
+      "txz",
+      "tgz"
+    ]
+  },
+  {
+    "name": "certificate",
+    "file_name": [
+      "copying",
+      "copying.md",
+      "copying.rst",
+      "copying.txt",
+      "copyright",
+      "copyright.md",
+      "copyright.rst",
+      "copyright.txt",
+      "license",
+      "license-agpl",
+      "license-apache",
+      "license-bsd",
+      "license-mit",
+      "license-gpl",
+      "license-lgpl",
+      "license.md",
+      "license.rst",
+      "license.txt",
+      "licence",
+      "licence-agpl",
+      "licence-apache",
+      "licence-bsd",
+      "licence-mit",
+      "licence-gpl",
+      "licence-lgpl",
+      "licence.md",
+      "licence.rst",
+      "licence.txt"
+    ],
+    "file_extensions": ["cer", "cert", "crt"]
+  },
+  {
+    "name": "image",
+    "file_extensions": [
+      "png",
+      "jpeg",
+      "jpg",
+      "gif",
+      "ico",
+      "tif",
+      "tiff",
+      "psd",
+      "psb",
+      "ami",
+      "apx",
+      "avif",
+      "bmp",
+      "bpg",
+      "brk",
+      "cur",
+      "dds",
+      "dng",
+      "exr",
+      "fpx",
+      "gbr",
+      "img",
+      "jbig2",
+      "jb2",
+      "jng",
+      "jxr",
+      "pgf",
+      "pic",
+      "raw",
+      "webp",
+      "eps",
+      "afphoto",
+      "ase",
+      "aseprite",
+      "clip",
+      "cpt",
+      "heif",
+      "heic",
+      "kra",
+      "mdp",
+      "ora",
+      "pdn",
+      "reb",
+      "sai",
+      "tga",
+      "xcf",
+      "jfif",
+      "ppm",
+      "pbm",
+      "pgm",
+      "pnm",
+      "icns"
+    ]
+  },
+  {
+    "name": "java",
+    "file_extensions": ["java", "jsp"]
+  },
+  {
+    "name": "go",
+    "file_extensions": ["go"]
+  },
+  {
+    "name": "python",
+    "file_extensions": ["py"]
+  },
+  {
+    "name": "ruby",
+    "file_name": [".ruby-version"],
+    "file_extensions": ["rb", "erb", "rbs"]
+  },
+  {
+    "name": "document",
+    "file_extensions": ["txt"]
+  },
+  {
+    "name": "markdown",
+    "file_extensions": ["md", "markdown", "rst"]
+  },
+  {
+    "name": "rust",
+    "file_extensions": ["rs", "ron"]
+  },
+  {
+    "name": "lua",
+    "file_name": [".luacheckrc"],
+    "file_extensions": ["lua"]
+  },
+  {
+    "name": "julia",
+    "file_extensions": ["jl"]
+  },
+  {
+    "name": "godot",
+    "file_extensions": ["gd"]
+  }
+]
