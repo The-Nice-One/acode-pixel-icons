@@ -153,6 +153,52 @@
     ]
   },
   {
+    "name": "yaml",
+    "file_extensions": [
+      "yml",
+      "yaml",
+      "yml.dist",
+      "yaml.dist",
+      "YAML-tmLanguage"
+    ]
+  },
+  {
+    "name": "table",
+    "file_extensions": ["xlsx", "xlsm", "xls", "csv", "tsv", "psv", "ods"]
+  },
+  {
+    "name": "json",
+    "file_name": [
+      ".jscsrc",
+      ".jshintrc",
+      "composer.lock",
+      ".jsbeautifyrc",
+      ".esformatter",
+      "cdp.pid",
+      ".lintstagedrc"
+    ],
+    "file_extensions": [
+      "json",
+      "jsonc",
+      "tsbuildinfo",
+      "json5",
+      "jsonl",
+      "ndjson"
+    ]
+  },
+  {
+    "name": "c",
+    "file_extensions": ["c", "i", "mi"]
+  },
+  {
+    "name": "cpp",
+    "file_extensions": ["cc", "cpp", "cxx", "c++", "cp", "mii", "ii"]
+  },
+  {
+    "name": "csharp",
+    "file_extensions": ["cs", "csx"]
+  },
+  {
     "name": "java",
     "file_extensions": ["java", "jsp"]
   },
