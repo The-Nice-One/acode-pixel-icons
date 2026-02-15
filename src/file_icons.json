@@ -12,6 +12,10 @@
     "file_extensions": ["esx", "mjs"]
   },
   {
+    "name": "typescript",
+    "file_extensions": ["ts"]
+  },
+  {
     "name": "settings",
     "file_name": [
       ".jshintignore",
