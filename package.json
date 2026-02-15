@@ -1,6 +1,6 @@
 {
   "name": "pixel_icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of pixel icons for the Acode editor.",
   "main": "dist/main.js",
   "author": "The-Nice-One",

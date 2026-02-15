@@ -187,6 +187,28 @@
     ]
   },
   {
+    "name": "git",
+    "file_name": [
+      ".git",
+      ".gitignore",
+      ".gitmessage",
+      ".gitignore-global",
+      ".gitignore_global",
+      ".gitattributes",
+      ".gitattributes-global",
+      ".gitattributes_global",
+      ".gitconfig",
+      ".gitmodules",
+      ".gitkeep",
+      ".gitinclude",
+      ".git-blame-ignore",
+      ".git-blame-ignore-revs",
+      ".git-for-windows-updater",
+      "git-history"
+    ],
+    "file_extensions": ["patch"]
+  },
+  {
     "name": "c",
     "file_extensions": ["c", "i", "mi"]
   },
@@ -214,6 +236,10 @@
     "name": "ruby",
     "file_name": [".ruby-version"],
     "file_extensions": ["rb", "erb", "rbs"]
+  },
+  {
+    "name": "erlang",
+    "file_extensions": ["erl"]
   },
   {
     "name": "document",
